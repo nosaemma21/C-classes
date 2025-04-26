@@ -23,4 +23,5 @@ or you can use the simple shell script I gave in `run.sh`.
 In bash just run:
  ```bash
  ./run.sh
- ``` and youre good to go 👍
+ ```
+ and youre good to go 👍
