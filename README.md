@@ -12,7 +12,7 @@ If you have a c++ compiler like g++ then you can do:
 g++ movies.cpp movie.cpp main.cpp -o main
 ```
 
-to compile
+to compile <br/>
 Then: 
 ```bash
 ./main
